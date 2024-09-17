@@ -13,7 +13,7 @@ Connect with me: [vishaldixit1602@gmail.com](mailto:vishaldixit1602@gmail.com)
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white" alt="Django" height="30">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white" alt="Docker" height="30">
   <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=express&logoColor=white" alt="Express" height="30">
-  <img src="https://img.shields.io/badge/Flask-%000000.svg?&style=flat-square&logo=flask&logoColor=white" alt="Flask" height="30">
+
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" alt="Git" height="30">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30">
   <img src="https://img.shields.io/badge/Java-%23F7DF1C.svg?&style=flat-square&logo=java&logoColor=white" alt="Java" height="30">
