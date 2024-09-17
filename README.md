@@ -2,7 +2,7 @@
 
 ## Backend Developer
 
-Connect with me: [vishaldixit@gmail.com](mailto:vishaldixit@gmail.com)
+Connect with me: [vishaldixit1602@gmail.com](mailto:vishaldixit1602@gmail.com)
 
 ## Languages and Tools:
 
