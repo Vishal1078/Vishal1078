@@ -1,6 +1,6 @@
 # Hi 👋, I'm VISHAL DIXIT
 
-## Backend Developer
+## Full Stack Developer
 
 Connect with me: [vishaldixit1602@gmail.com](mailto:vishaldixit1602@gmail.com)
 
